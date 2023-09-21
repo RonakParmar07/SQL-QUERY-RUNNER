@@ -17,10 +17,10 @@ function Navbar() {
       </div>
       <ul className='menu'>
         <li className='selected'>
-          <a href='#'>Home</a>
+          <a href='javascript:void(0)'>Home</a>
         </li>
         <li>
-          <a href='#'>About Us</a>
+          <a href='javascript:void(0)'>About Us</a>
         </li>
         <li>
           <a href='https://github.com/RonakParmar07/SQL-QUERY-RUNNER.git'>
