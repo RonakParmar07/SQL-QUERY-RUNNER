@@ -12,6 +12,7 @@ App fulfills all the requirements that were mentioned by team Atlan. You can run
 - Predefined tables are available for users to select from.
 - The SQL query results are displayed in a tabular format.
 - Users can customize the number of rows displayed per page for convenient viewing.
+- Application is able to load large amounts of rows without breaking the browser..see the details table in the application.
 
 ## Key libraries Used
 
