@@ -23,7 +23,7 @@ function Navbar() {
           <a href='#'>About Us</a>
         </li>
         <li>
-          <a href='https://github.com/RJ07JB/SQL-QUERY-RUNNER#sql-query-runner'>
+          <a href='https://github.com/RonakParmar07/SQL-QUERY-RUNNER.git'>
             GitHub
           </a>
         </li>
